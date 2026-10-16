@@ -109,11 +109,16 @@ The Power BI dashboard includes:
 - Total Profit
 - Profit Margin
 
-### Visualizations
+## Key Visualizations
 
-- Profit by Region
-- Profit by Sub-Category
-- Monthly Sales Trend
+### Monthly Revenue Trends
+![Monthly Revenue](chart_monthly_revenue.png)
+
+### Profitability by Region
+![Profit by Region](chart_profit_by_region.png)
+
+### Sub-Category Profit Breakdown
+![Sub-Category Profit](chart_subcategory_profit.png)
 
 ### Filters
 
